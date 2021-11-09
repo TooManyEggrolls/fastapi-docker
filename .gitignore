@@ -127,3 +127,27 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Cython debug symbols
+cython_debug/
+
+# VScode
+.vscode/
+
+#SQLite files
+app.db
+
+#Terraform
+.terraform/
+.terraform*
+*tfstate
+*tfstate.backup
+private.auto.tfvars
+
+#Node
+node_modules/
+package-lock.json
+
+#Docker
+data
+docker-compose.yml
