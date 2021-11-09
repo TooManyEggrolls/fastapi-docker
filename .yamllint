@@ -1,0 +1,6 @@
+extends: default
+
+rules:
+  comments-indentation: disable
+  document-start: disable
+  line-length: {max: 150}
