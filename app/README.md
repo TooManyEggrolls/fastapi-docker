@@ -18,7 +18,7 @@ uvicorn app.main:app
 ```
 
 After launch the openapi spec can be browsed at:
-http://localhost:80/docs
+<http://localhost:80/docs>
 
 ### docker-compose
 This compose file will spin up an instance of the API at localhost:80, as well as a psql database with persistent local disks at localhost:5432.
