@@ -55,4 +55,4 @@ docker-compose start
 ```
 
 After launch the openapi spec can be browsed at:
-http://localhost:80/docs
+<http://localhost:80/docs>
